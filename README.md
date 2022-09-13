@@ -48,3 +48,5 @@ Congrats, you've now minted a token on-chain! You should now see the item in thi
 2. Go to https://polygonscan.com/
 3. Paste the address in the search bar
 4. Tab over to `ERC-1155 Txns`
+5. You should then see a transaction showing the mint! This `Token ID` will match the Stardust `Token ID`.
+<img width="1512" alt="Screen Shot 2022-09-13 at 4 28 52 PM" src="https://user-images.githubusercontent.com/23266037/190002929-5d0a3aa7-9e65-484d-8714-031104840582.png">
